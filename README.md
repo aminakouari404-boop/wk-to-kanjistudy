@@ -51,6 +51,6 @@ python create_files.py
 ---
 
 ## 📁 Notes
-- The `wk_levels` folder already contains files generated as of 26 April 2026.
+- The `wk_levels` folder already contains files generated (as of 26 April 2026).
 - The script uses the WaniKani API and requires a valid API key to generate files.
 - Output files are written as `Level X (N kanji).txt`.
