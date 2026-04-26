@@ -6,7 +6,7 @@ Each generated file contains all kanji for one level, one per line, ready to imp
 ---
 
 ## ⚠️ Kanji Study requirement
-To import custom lists into Kanji Study, you need the **Autodidact** upgrade. Without this option, importing external kanji files is not possible.
+To import custom lists into Kanji Study, you'll need the **Autodidact** upgrade. Without this option, importing external kanji files is not possible.
 
 ---
 
